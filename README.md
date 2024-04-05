@@ -1,4 +1,4 @@
-## 🏷️Pass In
+## 🏷️Pass In - NLW UNITE
 <h2> Sobre o Projeto</h2>
 <p>O pass.in é uma aplicação de <b>gestão de participantes em eventos presenciais</b></p>
 
